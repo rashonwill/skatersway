@@ -14,7 +14,7 @@ body{
   height: auto;
   background: url('https://images.pexels.com/photos/3133688/pexels-photo-3133688.jpeg?auto=compress&cs=tinysrgb&w=1600');
   background-repeat: no-repeat;
-  background-size: coever;
+  background-size: cover;
 }
 
 .container{
