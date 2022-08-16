@@ -45,7 +45,7 @@ body{
 .nav ul{
   display: flex;
   list-style-type: none;
-  margin: 1rem 6rem;
+  margin: 1rem 8rem;
 }
 
 .nav ul li{
@@ -69,7 +69,7 @@ body{
   padding-left: 10px;
   outline: none;
   color: #dddddd;
-  margin: 1rem;
+  margin: .5rem 2rem;
   caret-color: #F4BC1C;
 }
 
