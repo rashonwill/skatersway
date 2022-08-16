@@ -19,10 +19,10 @@ body{
 
 .container{
   width: 82rem;
-  height: 45rem;
+  height: 50rem;
   border-radius: 30px;
   background:rgba(88, 88, 88, 0.7);
-  margin: 10rem auto;
+  margin: 6rem auto;
   backdrop-filter: blur(5px);
 }
 .nav{
@@ -81,7 +81,7 @@ body{
 
 .left-pane{
   width: 15rem;
-  height: 40rem;
+  height: 45rem;
   background:rgba(88, 88, 88, 0.6);
   border-radius: 0 0 0 30px;
   padding: 10px;
